@@ -64,7 +64,7 @@ Run the project using:
 * Web-based UI integration
 
 ##  Contributing
-  @anjali-poonia
+  anjali-poonia
   
 
 
