@@ -1,36 +1,35 @@
-# 🤖 AI Interview Trainer
+#  AI Interview Trainer
 
-## 📌 Overview
+##  Overview
 
 AI Interview Trainer is a smart assistant that helps users prepare for interviews by providing relevant questions along with clear, structured answers. It simulates real interview scenarios and enhances confidence through practice.
 
-## 🚀 Features
+##  Features
 
-* 📖 Generates interview questions and answers
-* 🎯 Covers multiple domains (DSA, Frontend, etc.)
-* 💬 Interactive and easy to use
-* ⚡ Fast and efficient response system
+*  Generates interview questions and answers
+*  Covers multiple domains (DSA, Frontend, etc.)
+*  Interactive and easy to use
+*  Fast and efficient response system
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-* Python 🐍
-* AI/ML frameworks (e.g., NLP models)
-* APIs (if integrated)
+* Python 
+* APIs (GROQ_API_KEY)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 AI-Interview-Trainer/
 │── main.py
+│── requirements.py
 │── requirements.txt
-│── README.md
 │── modules/
 │   ├── question_generator.py
 │   ├── answer_engine.py
 │── assets/
 ```
 
-## ⚙️ Installation
+##  Installation
 
 1. Clone the repository:
 
@@ -47,30 +46,28 @@ cd AI-Interview-Trainer
 3. Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.py
 ```
 
-## ▶️ Usage
+##  Usage
 
 Run the project using:
 
 ```bash
-python main.py
+ python interview_trainer/main.py
 ```
 
-## 🌟 Future Improvements
+##  Future Improvements
 
 * Add voice-based interview simulation
 * Improve AI accuracy with advanced models
 * Web-based UI integration
 
-## 🤝 Contributing
+##  Contributing
+  @anjali-poonia
+  
 
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
