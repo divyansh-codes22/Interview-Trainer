@@ -65,8 +65,8 @@ Run the project using:
 
 ##  Contributing
   anjali-poonia
-  
-
+  mahitva7
+  anupragya
 
 
 ---
